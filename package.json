@@ -1,7 +1,11 @@
 {
   "name": "@satmaxt/sidebar-menu-drawer",
-  "version": "1.0.0",
-  "keywords": ["drawer", "sidebar menu", "vue component"],
+  "version": "1.0.1",
+  "keywords": [
+    "drawer",
+    "sidebar menu",
+    "vue component"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
