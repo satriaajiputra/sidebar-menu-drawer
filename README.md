@@ -21,13 +21,13 @@ npm install --save font-awesome
 
 ## Install Sidebar Menu Drawer
 ```
-npm install @satriaajiputra/sidebar-menu-drawer
+npm install @satmaxt/sidebar-menu-drawer
 ```
 
 ## Using Component
 at ``script`` tag section
 ```js
-import SidebarMenuDrawer from '@satriaajiputra/sidebar-menu-drawer'
+import SidebarMenuDrawer from '@satmaxt/sidebar-menu-drawer'
 
 export default {
   data() {
@@ -68,7 +68,7 @@ at ``template`` section
 
 At ``style`` section
 ```scss
-@import "~@satriaajiputra/sidebar-menu-drawer/src/assets/sidebar-menu-drawer";
+@import "~@satmaxt/sidebar-menu-drawer/src/assets/sidebar-menu-drawer";
 
 /* Add this line if you installed font-awesome */
 $fa-font-path: "~font-awesome/fonts" !default;
